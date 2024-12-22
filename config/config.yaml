@@ -1,0 +1,13 @@
+experiment:
+ name: random_forest_v1
+ parameteres:
+  n_estimators: 100
+  max_depth: 10
+  min_samples_split: 2
+ metrics:
+  - accuracy
+  - f1_score
+
+
+
+  
