@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+# Distribution / packaging
+dist/
+build/
+# Jupyter Notebook
+.ipynb_checkpoints
+# ML specific
+data/raw/
+data/processed/
+models/*.h5
+models/*.pkl
+# Environment
+.env
+.venv
+venv/
+ENV/
