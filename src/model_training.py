@@ -3,7 +3,7 @@ from sklearn.ensemble import RandomForestClassifier
 def create_model(n_estimators=100):
     """Create Randomforest model"""
     return RandomForestClassifier(n_estimators=n_estimators)
-def create_model(n_estimators =150):
+def create_model(n_estimators =300):
     """create random forest model"""
     return RandomForestClassifier(n_estimators=n_estimators)
 
