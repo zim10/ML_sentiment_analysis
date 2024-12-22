@@ -7,3 +7,6 @@ def create_model():
 def train_model(X, y):
     """Train the model"""
     pass
+def evaluate_model(model, X_test, y_test):
+    """Evaluate model performance"""
+    pass
